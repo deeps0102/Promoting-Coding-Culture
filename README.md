@@ -16,9 +16,14 @@ It was an introductory session to introduce students to the basics of competitiv
 
 Concepts of arrays, dynamic arrays, functions ,pointers and time complexity were discussed. Euclidean Theorem for GCD , Binary and Ternary Exponentiation and Sieve algorithm were also discussed.
 
-### 3. Basics and Road-map
+### 3. Basics of Web Development
 
+In this basics of Web Development and Project Workflow were discussed. Also use of Git was also introduced.
 
-### 4. Object Oriented Programming and Basics of Development
+### 4. Object Oriented Programming
+
+In this concepts of class, object, constructor, modifiers, inheritance, polymorphism, abstraction, encapsulation were discussed. 
 
 ### 5. Promoting Women in Tech
+
+It was particularly aimed towards encouraging women participation in tech world. Various programs to encourage women participation such as WE Program offered by Talentsprint were discussed.
