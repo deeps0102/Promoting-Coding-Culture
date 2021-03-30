@@ -27,3 +27,27 @@ In this concepts of class, object, constructor, modifiers, inheritance, polymorp
 ### 5. Promoting Women in Tech
 
 It was particularly aimed towards encouraging women participation in tech world. Various programs to encourage women participation such as WE Program offered by Talentsprint were discussed.
+
+
+
+
+
+  <p align = "center">
+   <img src="/resources/tebaku.jpg" width="800" height="400"/>
+  </p>
+  
+  
+  
+  
+
+  <p align = "center">
+   <img src="/resources/workshop.jpg" width="800" height="400"/>
+  </p>
+  
+  
+  
+  
+  
+  <p align = "center">
+   <img src="/resources/meeting.jpg" width="800" height="400"/>
+  </p>
